@@ -1,4 +1,4 @@
-package Exercicio4; //  EXERCÍCIO (USAR LOOP) 1.
+package Exercicio4; //  EXERCÍCIO (USAR LOOP) 1 - Escrever uma classe, com um método chamado "escreveTabuada". Usar um loop for que daça a tabuada do 2
 
 public class Tabuada {
     public void escreveTabuada(){
